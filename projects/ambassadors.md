@@ -1,6 +1,6 @@
 # MCDEX Global Ambassadors
 ## Intro
-MCDEX Global Ambassadors Program is aiming to ultilized the power of MCDEX community to expand influences and adoptions. Foundation will provide tasks grants in terms of MCB based on performance on a monthly basis. Ambassodars will 
+The MCDEX Global Ambassador Program aims to leverage the power of the MCDEX community to expand influences and accelerate adoptions. The MCDEX Foundation will provide grants in MCB on a monthly basis for the tasks based on the performance of the Ambassadors. 
 
 ## Budget
 
