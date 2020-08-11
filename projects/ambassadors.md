@@ -7,3 +7,6 @@ The MCDEX Global Ambassador Program aims to leverage the power of the MCDEX comm
 | No. | Time          | Budget | Notes | Payment time | 
 |-----|---------------|---------|-------|-------|
 |  1  | 2020 August  | 2000 - 8000 MCB| Grants will be based on performance | Sep. 10 Roughly |
+
+
+## Expense
