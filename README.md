@@ -15,7 +15,7 @@
 
 | No. | Time          | Details | Notes |
 |-----|---------------|---------|-------|
-|  1  | 2020   | [Details](financial/token-sales/1.md) | Paying MC Fund and eUSD audit fees|
+|  1  | 2020 ？  | [Details](financial/token-sales/1.md) | Paying MC Fund and eUSD audit fees|
 
 ## Projects
 1. [MCDEX Global Ambassadors](projects/ambassadors.md)
