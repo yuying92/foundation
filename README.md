@@ -11,11 +11,11 @@
 
 3. Only when MCDEX Foundation cannot pay with $MCB, it will sell the token to pay the bill and will be made public beforehand.
 
-### Token Sales
+### Reports
 
-| No. | Time          | Details | Notes |
-|-----|---------------|---------|-------|
-|  1  | 2020 ？  | [Details](financial/token-sales/1.md) | Paying MC Fund and eUSD audit fees|
+| No. | Time          | Report                                | 
+|-----|---------------|---------------------------------------|
+|  1  | August 2020   | [Report](financial/reports/aug-2020.md) |
 
 ## Projects
 1. [MCDEX Global Ambassadors](projects/ambassadors.md)
