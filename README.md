@@ -19,3 +19,4 @@
 
 ## Projects
 1. [MCDEX Global Ambassadors](projects/ambassadors.md)
+2. Marketing Compaigns
