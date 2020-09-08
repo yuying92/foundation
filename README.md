@@ -1,7 +1,7 @@
 # MCDEX Foundation
 
 
-## Financial 
+## Financials 
 
 ### Rules
 
@@ -9,7 +9,7 @@
 
 2. MCDEX Foundation will use the $MCB to support people or organizations (excluding the founding team) that contribute to the development of MCDEX.
 
-3. Only when MCDEX Foundation cannot pay with $MCB, it will sell the token to pay the bill and will be made public beforehand.
+3. Only when MCDEX Foundation cannot pay with the MCB, it will sell the token to pay the bills. The details of expenses will be made public beforehand.
 
 ### Reports
 
@@ -20,4 +20,5 @@
 
 ## Projects
 1. [MCDEX Global Ambassadors](projects/ambassadors.md)
-2. Marketing Compaigns
+2. [Marketing Campaigns](projects/marketing-campaigns.md)
+3. [Contests and Competitions](projects/contests-and-competitions.md)
