@@ -16,7 +16,7 @@
 | No. | Time          | Report                                | 
 |-----|---------------|---------------------------------------|
 |  2  | August 2020   | [Report](financial/reports/aug-2020.md) |
-|  1  | August 2020   | [Report](financial/reports/jul-2020.md) |
+|  1  | September 2020   | [Report](financial/reports/jul-2020.md) |
 
 ## Projects
 1. [MCDEX Global Ambassadors](projects/ambassadors.md)
