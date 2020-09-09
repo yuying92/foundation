@@ -7,5 +7,4 @@ In order to expand influences and increase the engagaments within the community,
 
 | No. | Month          | Budget | Notes | Payment time | 
 |-----|---------------|---------|-------|-------|
-|  1  | 2020 August  | Empty | Empty | Empty |
-|  2  | 2020 September  | 1000 MCB | Empty | Empty |
+|  1  | 2020 September  | 1000 MCB | Meme Contest, Chart Art Competition | Sep 15 Roughly |
