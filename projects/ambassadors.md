@@ -8,4 +8,4 @@ The MCDEX Global Ambassador Program aims to leverage the power of the MCDEX comm
 | No. | Month          | Budget | Notes | Payment time | 
 |-----|---------------|---------|-------|-------|
 |  1  | 2020 August  | 2000 - 8000 MCB| Grants will be based on performance: Goal - Onboard 25+ traders; expand communiteis in Italian, Spanish languages; Provide 5+ tutorials of platforms and on trading skills  | Sep. 10 Roughly |
-|  2  | 2020 September  | 2000 MCB | Grants will be based on performance: Italy community AMA to onboard new stakeholderes,  Youtube tutorial videos | Sep. 30 Roughly |
+|  2  | 2020 September  | 2000 MCB | Grants will be based on performance: Italy community AMA to onboard new stakeholders,  4+ YouTube Tutorial Videos   | Sep. 30 Roughly |
