@@ -7,5 +7,5 @@ In order to expand influences and increase the engagaments within the community,
 
 | No. | Month          | Budget | Notes | Payment time | 
 |-----|---------------|---------|-------|-------|
-|  1  | 2020 September  | 2500 MCB | AMA with Just DeFi Community, Crypto ID Community, Gainschat Community, and more | Sep 15 Roughly |
+|  1  | 2020 September  | 2500 MCB | AMA with Just DeFi Community, Crypto ID Community, Gainschat Community, Satoshi Club, and more | Sep 15 Roughly |
 
